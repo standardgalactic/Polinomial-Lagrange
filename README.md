@@ -1,2 +1,2 @@
-# kuliah
-Project Kecil Kuliah
+# Polinomial Lagrange
+The code based on Python.
